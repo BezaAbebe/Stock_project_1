@@ -26,8 +26,8 @@ This project focuses on the stock analysis of four major companies: Nvidia, AMD,
 #### - Drawdown: 
   - Analysis of drawdowns to measure the potential downside risk and the volatility of each stock.
 
-# Objective:
+## Objective:
 The aim of this project is to provide a comprehensive analysis of the selected stocks, helping to identify investment risks and opportunities based on their price behaviors and statistical metrics.
 
-# Usage:
+## Usage:
 To run the analysis, open the stocks.ipynb in a Jupyter environment, ensuring that all dependencies are installed as outlined in the notebook. Ensure to download the necessary CSV files.
