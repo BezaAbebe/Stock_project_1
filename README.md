@@ -4,8 +4,9 @@
 This project focuses on the stock analysis of four major companies: Nvidia, AMD, Meta, and C3.ai. The analysis involves detailed statistical assessments and risk evaluation to understand the trends and volatilities in their stock prices.
 
 ## Files Included:
-- Spy_prices.csv: Contains the historical stock price data for SPY Index.
-- StockDataConsolidated.csv: Contains the historical stock price data for Nvidia, AMD, Meta, and C3.ai going back to 2013
+### Resources:
+#### - Spy_prices.csv: Contains the historical stock price data for SPY Index.
+#### - StockDataConsolidated.csv: Contains the historical stock price data for Nvidia, AMD, Meta, and C3.ai going back to 2013
 - stocks.ipynb: A Jupyter notebook that includes all the coding and visualization for the analysis.
 
 ## Features of the Jupyter Notebook:
