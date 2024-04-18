@@ -15,10 +15,10 @@ This project focuses on the stock analysis of four major companies: Nvidia, AMD,
 ### Visualization: 
 - Plots of stock prices over time for each company to visualize trends and patterns.
 ### Risk Analysis:
-#### Stock Beta: 
-- Calculation of beta for each stock to assess how much the stock price is likely to move compared to the market.
-#### Drawdown: 
-- Analysis of drawdowns to measure the potential risk and the volatility of each stock.
+ - #### Stock Beta: 
+  - Calculation of beta for each stock to assess how much the stock price is likely to move compared to the market.
+ - #### Drawdown: 
+  - Analysis of drawdowns to measure the potential risk and the volatility of each stock.
 
 # Objective:
 The aim of this project is to provide a comprehensive analysis of the selected stocks, helping to identify investment risks and opportunities based on their price behaviors and statistical metrics.
