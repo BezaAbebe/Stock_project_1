@@ -11,14 +11,16 @@ This project focuses on the stock analysis of four major companies: Nvidia, AMD,
 ## Features of the Jupyter Notebook:
 
 ### Statistical Analysis: 
-- Computation of basic statistics such as mean and rolling average to understand trends.
+- Computation of basic statistics such as mean, variance, standard deviation,  and standard  error.
+### Comparative Analysis: 
+-Computation of rolling average to understand trends.
 ### Visualization: 
 - Plots of stock prices over time for each company to visualize trends and patterns.
 ### Risk Analysis:
 #### - Stock Beta: 
-  - Calculation of beta for each stock to assess how much the stock price is likely to move compared to the market.
+  - Calculation of beta for each stock to assess the volatility of the stocks compared to the market.
 #### - Drawdown: 
-  - Analysis of drawdowns to measure the potential risk and the volatility of each stock.
+  - Analysis of drawdowns to measure the potential downside risk and the volatility of each stock.
 
 # Objective:
 The aim of this project is to provide a comprehensive analysis of the selected stocks, helping to identify investment risks and opportunities based on their price behaviors and statistical metrics.
