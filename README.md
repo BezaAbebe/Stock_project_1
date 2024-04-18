@@ -11,7 +11,7 @@ stocks.ipynb: A Jupyter notebook that includes all the coding and visualization 
 ## Features of the Jupyter Notebook:
 
 ### Statistical Analysis: Computation of basic statistics such as mean and rolling average to understand trends.
-Visualization: Plots of stock prices over time for each company to visualize trends and patterns.
+### Visualization: Plots of stock prices over time for each company to visualize trends and patterns.
 ### Risk Analysis:
 #### Stock Beta: Calculation of beta for each stock to assess how much the stock price is likely to move compared to the market.
 #### Drawdown: Analysis of drawdowns to measure the potential risk and the volatility of each stock.
@@ -19,5 +19,5 @@ Visualization: Plots of stock prices over time for each company to visualize tre
 # Objective:
 The aim of this project is to provide a comprehensive analysis of the selected stocks, helping to identify investment risks and opportunities based on their price behaviors and statistical metrics.
 
-Usage:
+# Usage:
 To run the analysis, open the stocks.ipynb in a Jupyter environment, ensuring that all dependencies are installed as outlined in the notebook. Ensure to download the necessary CSV files.
