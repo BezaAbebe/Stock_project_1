@@ -10,11 +10,10 @@ This project focuses on the stock analysis of four major companies: Nvidia, AMD,
 - The standard deviation above for each stock shows the variation of the stock prices from the mean stock price. From our data, NVDA has a high price fluctuation.
 - The standard error of the stocks above indicates that NVDA the stock price of NVDA is quite unstable since it is a bit far from the mean
 - The variance shown above shows how risky these stocks are. For a risk average individual, NVDA is not the best option since it shows evidence of unpredictability.
-
--
 - Each of the stocks' returns resulted in a beta that is greater than 1. This signifies that the volatility of the prices exceeds that of the market. Small cap and technology stocks typically have higher betas than the market benchmark. Therefore, adding stocks to a portfolio will raise its risk, but it may also improve its expected return.
 - Based on the finding of the drawdown graphs, META is is dropping a lot, which indicates it is risky to invest in. NVDA goes up and down a lot,which makes it very unpredictable. 
-- AMD has some ups and downs as well but it is not as unpredictable as NVDA. However,  AI stock is more stable and no significant changes has occurred yet. 
+- AMD has some ups and downs as well but it is not as unpredictable as NVDA. However,  AI stock is more stable and no significant changes has occurred yet.
+-  AMD, AI, META and NVDA have positive correlation moving in the same direction. The return percentage over the 1,3,5 and 10 years have been moving upward . Even though past performance does not guarantee future performance , we believe there is great growth potential for investors who are still interested in getting AI  investment theme since the market for AI has not reached it peak yet.
 
 ## Files Included:
 ### Resources:
