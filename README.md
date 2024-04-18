@@ -13,7 +13,7 @@ This project focuses on the stock analysis of four major companies: Nvidia, AMD,
 ### Statistical Analysis: 
 - Computation of basic statistics such as mean, variance, standard deviation,  and standard  error.
 ### Comparative Analysis: 
--Computation of rolling average to understand trends.
+- Computation of rolling average to understand trends.
 ### Visualization: 
 - Plots of stock prices over time for each company to visualize trends and patterns.
 ### Risk Analysis:
