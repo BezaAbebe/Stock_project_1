@@ -21,6 +21,8 @@ This project focuses on the stock analysis of four major companies: Nvidia, AMD,
   - Contains the historical stock price data for SPY Index.
 #### 2. StockDataConsolidated.csv: 
   - Contains the historical stock price data for Nvidia, AMD, Meta, and C3.ai going back to 2013
+#### 3. Powerpoint  
+  - contains project content of the presentation
 ### stocks.ipynb: 
   - A Jupyter notebook that includes all the coding and visualization for the analysis.
 
